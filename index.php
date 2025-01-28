@@ -63,6 +63,7 @@
     <footer>
         <div class="footer-content">
             <p>&copy; 2025 Minhas Férias. Todos os direitos reservados.</p>
+            <p>Desenvolvido por Zanirato.</p>
             <ul class="footer-links">
                 <li><a href="#">Sobre</a></li>
                 <li><a href="#">Contato</a></li>
