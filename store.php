@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Executa a consulta e verifica se foi bem-sucedida
     if ($conn->query($sql) === TRUE) {
-        header("Location: index.php"); // Redireciona para a página principal
+        header("Location: login.php"); // Redireciona para a página principal
     } else {
         echo "Erro: " . $conn->error; // Mostra erro, se houver
     }
