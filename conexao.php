@@ -11,7 +11,7 @@ try {
     if($conn->connect_error) {
         throw new Excepcion("Falha na conexão: " . $conn->connect_error);
     }
-    echo "Conexão realizado com sucesso!";
+    echo "";
 } catch (Excepcion $e) {
     echo "Erro ao conectar ao banco de dados: " . $e->getMessage();
 }
