@@ -18,7 +18,7 @@ Antes de tudo, é importante a criação de um protótipo para idealizar a pági
   
 ### 2. Criação da estrutura (HTML)
 
-Primeiramente, reparei quais eventos seriam utilizados na página. Após isso, iniciei a criação da estrutura da página, utilizando o HTML. Foi feito um header, as sections dentro da main, - que separaria os eventos que me aconteceram nas férias - um aside com as curiosidades desses eventos e um footer para finalizar a página. Com a divisão dos itens do site, foi finalizado a parte da estrutura.
+Primeiramente, reparei quais eventos seriam utilizados na página. Após isso, iniciei a criação da estrutura da página, utilizando o HTML. Foi feito um header, as sections dentro da main, - que separaria os eventos que me aconteceram nas férias - um aside com as curiosidades desses eventos e um footer para finalizar a página. Com a divisão dos itens do site, foi finalizado a parte da estrutura. Após a criação do banco de dados, foi criado mais uma página HTML para um formulário que deveria ser preenchido antes de levar a página principal.
   
   
  <br> 
@@ -52,5 +52,5 @@ CREATE TABLE usuarios(
 
 ### 5. Conexão do Banco de Dados (PHP)
 
-Foi utilizado a linguagem PHP para a validação dos formulários e para conexão com o banco de dados. Ou seja, com o uso da linguagem PHP, é possível fazer com que o site não aceite um formulário vazio, e fazer com que os dados dos usuários sejam encaminhados para o banco de dados. Também foi utilizado para interligar as duas páginas depois do envio do formulário
+Foi utilizado a linguagem PHP para a validação dos formulários e para conexão com o banco de dados. Ou seja, com o uso da linguagem PHP, é possível fazer com que o site não aceite um formulário vazio, e fazer com que os dados dos usuários sejam encaminhados para o banco de dados. Também foi utilizado para interligar as duas páginas depois do envio do formulário.
 
