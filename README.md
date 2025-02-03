@@ -16,4 +16,23 @@ Primeiramente, reparei quais eventos seriam utilizados na página. Após isso, i
 
 ### 3. Estilização da página (CSS)
 
-Após, iniciei a estilização. Separei as cores que seriam usadas e onde cada item ficaria.
+Após, iniciei a estilização. Separei as cores que seriam usadas e onde cada item ficaria. Cada bloco foi estilizado de forma diferente, mas utilizando uma paleta de cores fixa para que a página não ficasse confusa.
+
+
+### 4. Criação do Banco de dados
+
+Com a finalização da página, foi pedido para que criassemos um banco de dados, para que nele aparece o nome e o email dos usuários cadastrados. Antes de fazer o banco de dados, foi criada outra página para cadastro. Segue os códigos utilizados para a criação do banco de dados:
+
+```SQL
+CREATE DATABASE login;
+USE login;
+```
+
+```SQL
+CREATE TABLE usuarios(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL
+);
+```
+
