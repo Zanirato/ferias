@@ -48,5 +48,7 @@ CREATE TABLE usuarios(
 );
 ```
 
-### 5. Conexão do Banco de Dados
+### 5. Conexão do Banco de Dados (PHP)
+
+Foi utilizado a linguagem PHP para a validação dos formulários e para conexão com o banco de dados. Ou seja, com o uso da linguagem PHP, é possível fazer com que o site não aceite um formulário vazio, e fazer com que os dados dos usuários sejam encaminhados para o banco de dados. 
 
