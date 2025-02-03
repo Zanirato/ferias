@@ -4,6 +4,7 @@ Com intuito educativo e para relembrar o uso das linguagens HTML, CSS, SQL e PHP
   
   
   
+  <br>
   
 ### 1. Criação do protótipo (Figma)
 
@@ -11,22 +12,22 @@ Antes de tudo, é importante a criação de um protótipo para idealizar a pági
 
 [Férias.pdf](https://github.com/user-attachments/files/18578420/Ferias.pdf)
   
-  
-  
+
+<br>  
   
 ### 2. Criação da estrutura (HTML)
 
 Primeiramente, reparei quais eventos seriam utilizados na página. Após isso, iniciei a criação da estrutura da página, utilizando o HTML. Foi feito um header, as sections dentro da main, - que separaria os eventos que me aconteceram nas férias - um aside com as curiosidades desses eventos e um footer para finalizar a página. Com a divisão dos itens do site, foi finalizado a parte da estrutura.
   
   
-  
+ <br> 
   
 ### 3. Estilização da página (CSS)
 
 Após, iniciei a estilização. Separei as cores que seriam usadas e onde cada item ficaria. Cada bloco foi estilizado de forma diferente, mas utilizando uma paleta de cores fixa para que a página não ficasse confusa.  
   
   
-  
+<br>  
   
 ### 4. Criação do Banco de dados
 
