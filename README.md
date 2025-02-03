@@ -10,8 +10,9 @@ Com intuito educativo e para relembrar o uso das linguagens HTML, CSS, SQL e PHP
 
 Antes de tudo, é importante a criação de um protótipo para idealizar a página. Mesmo que não seja seguido a risca, tentei seguir o máximo possível o projeto inicial, sejam as cores ou a distribuição dos itens no site. O protótipo foi feito no site figma, sendo não funcional.
 
-[Férias.pdf](https://github.com/user-attachments/files/18578420/Ferias.pdf)
-  
+<br>
+
+  ![Captura de tela 2025-02-03 133645](https://github.com/user-attachments/assets/85e60811-4a63-4d45-87e4-f6fa422de11a)
 
 <br>  
   
